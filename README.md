@@ -1,4 +1,4 @@
-## Hey 👋, 
+## Hey 👋
 
 This is Jose Valenzuela
 [![Gmail Badge](https://img.shields.io/badge/-josevabram@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:josevabram@gmail.com)](mailto:josevabram@gmail.com) 
